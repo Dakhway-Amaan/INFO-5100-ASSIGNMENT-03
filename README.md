@@ -4,7 +4,7 @@ A simple Java (NetBeans) project that turns the Lunar Rover UML state machine in
 
 ## State Machine Diagram
 
-![Lunar Rover state machine](Lunar_Rover_diagram.png)
+![Lunar Rover state machine](INFO-5100-ASSIGNMENT-03-SCREENSHOTS/INFO-5100-ASSIGNMENT-03-DIAGRAM.svg) 
 
 ## Project Structure
 
